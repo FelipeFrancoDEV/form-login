@@ -1,0 +1,3 @@
+--Gerenciador de estoque -- 
+
+Início (tela de login/cadastro do usuário) --> área do estoque(inicial) --> menu de áreas do estoque (prod. limpeza/ prod. bebidas/ etc..) --> Cadastro de novo produto --> Edição de produto --> Excluir produto --> Botão para dar refresh na página --> página de todos os itens cadastrados --> filtros por área --> PRODUTO/ CÓDIGO/ QUANTIDADE / DATA DE ENTRADA -- Botão de suporte para bug/erro --> Rodapé
